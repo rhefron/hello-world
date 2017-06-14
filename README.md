@@ -1,2 +1,2 @@
 # hello-world
-first repo
+This is a test to learn more about github
